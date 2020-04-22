@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="description" content="FLASH IPTV">
+<meta name="author" content="Junior Gomes">
+<link rel="icon" href="images/favicon.png">
+<title>FLASH IPTV | A TV DO FUTURO</title>
+<meta name="title" content="Flash IPTV — 22000+ Canais em 4K sem travamentos | Teste Grátis | Revenda IPTV | Lista IPTV">
+<meta name="description" content="O melhor provedor de IPTV do Brasil. 22000+ canais iptv, filmes e séries em 4K e sem travamentos. Confira nossos pacotes com teste grátis de 6 horas!">
+<meta name="robots" content="index, follow">
+
+
+
+<meta name="og:locale" content="pt_BR">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://flashiptv.com.br/">
+<meta property="og:title" content="Flash IPTV — 22000+ Canais em 4K sem travamentos | Teste Grátis | Revenda IPTV | Lista IPTV">
+<meta property="og:description" content="O melhor provedor de IPTV do Brasil. 22000+ canais iptv, filmes e séries em 4K e sem travamentos. Confira nossos pacotes com teste grátis de 6 horas!">
+<meta property="og:image" content="https://flashiptv.com.br/images/flash.png">
+
+
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://flashiptv.com.br/">
+<meta property="twitter:title" content="Flash IPTV — A Tv do futuro. | Lista iptv | iptv | assinar iptv | canais iptv">
+<meta property="twitter:description" content="A melhor lista de IPTV com garantia de satisfação. São +22000 canais IPTV com programação, futebol, lutas, séries, filmes, adulto e muito mais">
+<meta property="twitter:image" content="https://flashiptv.com.br/images/flash.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href="https://fonts.googleapis.com/css?family=Manjari:100&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="vendor/fontawesome/css/all.min.css" rel="stylesheet" type="text/css">
+<link href="css/aos.css" rel="stylesheet" media="screen">
+<link href="css/style.css" rel="stylesheet" media="screen"></head>
+<body id="page-top">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="index.php"><img src="images/logo_menor.png" alt="FLASH IPTV" title="Início" /></a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Navegação
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav text-uppercase ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="planos-iptv.php" title="Planos">Planos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="revenda-iptv.php" title="Revenda">Revenda</a>
+                </li>
+                <!-- <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#servicos" title="Produtos">Produtos</a>
+                </li> -->
+                <!-- <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#suporte" title="Suporte">Suporte</a>
+                </li> -->
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#duvidas" title="Dúvidas">Dúvidas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="tutoriais-iptv.php" title="Tutoriais">Tutoriais</a>
+                </li>
+                <!-- <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="https://api.whatsapp.com/send?1=pt_BR&phone=5519981116296" target="_blank" title="Whatsapp"><i class="fab fa-whatsapp"></i> +55 (19) 98111-6296</a>
+                </li>		 -->
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger btn-cliente" href="https://central.flashiptv.me/clientarea.php" title="Área do Cliente">Área do Cliente</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>    <header class="masthead" id="header">
+    <div class="container">
+        <div class="intro-text text-center">
+            <div class="intro-lead-in">A LISTA COM <b>QUALIDADE</b> E <b>VELOCIDADE</b> QUE VOCÊ PRECISA</div>
+            <div class="intro-lead-in intro-lead-in-2  text-uppercase">Sem consulta ao <b>SPC</b>, <b>SERASA</b> e sem <b>FIDELIDADE</b>.</div>
+            <a href="https://teste.flashiptv.me" target="_blank" title="clique para testar">TESTE GRÁTIS AGORA MESMO</a>
+        </div>
+        <div class="row">            
+            <div class="col-md-4" data-aos="fade-right">
+                <div class="content-box">
+                    <h3>Servidores de qualidade<br/><span>anti-travamentos</span></h3>
+                    <p>Nós possuímos os melhores servidores para que você tenha uma programação de qualidade.</p>
+                </div>
+            </div>
+            <div class="col-md-4" data-aos="fade-right">
+                <div class="content-box">
+                    <h3>Proteção <br/><span>qualidade e segurança</span></h3>
+                    <p>Estamos sempre atentos as novas tecnologias de proteção para prestarmos o melhor produto.</p>
+                </div>
+            </div>
+            <div class="col-md-4" data-aos="fade-right">
+                <div class="content-box">
+                    <h3>Suporte técnico <br/><span>equipe preparada</span></h3>
+                    <p>Equipe pronta para lhe atender. Suporte técnico via Ticket e Chat ao Vivo.</p>
+                </div>
+            </div>
+        </div>       
+    </div>
+</header>
+
+
+    <section id="freeteste">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7 testegratis" data-aos="fade-down">
+                <h2>TESTE GRÁTIS POR 6 HORAS</h2>
+                <h3>Você sabia que antes de adquirir, você pode testar a melhor lista com qualidade premium?</h3>
+                <!-- <h3>Faça um teste agora mesmo.</h3> -->
+                <a href="http://teste.flashiptv.me" class="btn btn-primary" target="_blank" title="Faça um teste" data-aos="fade-up">TESTE AGORA MESMO →</a>
+            </div>
+          
+        </div>
+    </div>
+</section>    
+    <section id="planos" class="col-lg-12">    
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="titles text-uppercase">Conheça nossos planos de <span>LISTA IPTV</span></h2>
+            </div>
+            <div class="col-md-4" data-aos="fade-right">                                            
+                <div class="pricing-plan">
+                    <h2 class="pricing-header">Flash</h2>
+                    <span class="pricing-price">R$25/mensal</span>
+                    <ul class="pricing-features">
+                        <li class="pricing-features-item">+23,000 Conteúdos</li>
+                        <li class="pricing-features-item">Qualidade HD/SD</li>
+                        <li class="pricing-features-item">Guia de Programação [EPG]</li>
+                        <li class="pricing-features-item">Assista no Smartphone/Tablet</li>
+                        <li class="pricing-features-item">Assista na Smart TV</li>
+                        <li class="pricing-features-item">Assista no Computador</li>
+                        <li class="pricing-features-item">Assista no TV Box/Chromecast</li>
+                        <li class="pricing-features-item">Programação Adultos [Opcional]</li>
+                        <li class="pricing-features-item">Rádios Online</li>
+                        <li class="pricing-features-item">Cortesias: Pacote Filmes e Séries</li>
+                    </ul>                    
+                    <a href="https://central.flashiptv.me/cart.php?a=add&pid=1&skipconfig=1&carttpl=flash" class="pricing-button" title="Clique para assinar">ASSINAR</a>
+                </div>                        
+            </div>
+            <div class="col-md-4 active-plan" data-aos="fade-right">                                            
+                <div class="pricing-plan">
+                    <span class="better-plan"><b><i class="fa fa-star"></i> o mais vendido <i class="fa fa-star"></i></b></span>
+                    <h2 class="pricing-header">Zoom</h2>
+                    <span class="pricing-price">R$60/trimestral</span>
+                    <ul class="pricing-features">
+                        <li class="pricing-features-item">+23,000 Conteúdos</li>
+                        <li class="pricing-features-item">Qualidade FHD/HD/SD</li>
+                        <li class="pricing-features-item">Guia de Programação [EPG]</li>
+                        <li class="pricing-features-item">Assista no Smartphone/Tablet</li>
+                        <li class="pricing-features-item">Assista na Smart TV</li>
+                        <li class="pricing-features-item">Assista no Computador</li>
+                        <li class="pricing-features-item">Assista no TV Box/Chromecast</li>
+                        <li class="pricing-features-item">Programação Adultos [Opcional]</li>
+                        <li class="pricing-features-item">Rádios Online</li>
+                        <li class="pricing-features-item">Cortesias: Pacote Filmes e Séries</li>
+                        <li class="pricing-features-item">Canais Legendados*</li>
+                    </ul>                    
+                    <a href="https://central.flashiptv.me/cart.php?a=add&pid=2&skipconfig=1&carttpl=flash" class="pricing-button" title="Clique para assinar">ASSINAR</a>
+                </div>                        
+            </div>
+            <div class="col-md-4" data-aos="fade-right">                                            
+                <div class="pricing-plan">
+                    <h2 class="pricing-header">Savitar</h2>
+                    <span class="pricing-price">R$300/anual</span>
+                    <ul class="pricing-features">
+                        <li class="pricing-features-item">+23,000 Conteúdos</li>
+                        <li class="pricing-features-item">Qualidade 4k/FHD/HD/SD</li>
+                        <li class="pricing-features-item">Guia de Programação [EPG]</li>
+                        <li class="pricing-features-item">Assista no Smartphone/Tablet</li>
+                        <li class="pricing-features-item">Assista na Smart TV</li>
+                        <li class="pricing-features-item">Assista no Computador</li>
+                        <li class="pricing-features-item">Assista no TV Box/Chromecast</li>
+                        <li class="pricing-features-item">Programação Adultos [Opcional]</li>
+                        <li class="pricing-features-item">Rádios Online</li>
+                        <li class="pricing-features-item">Cortesias: Pacote Filmes e Séries</li>
+                        <li class="pricing-features-item">Canais Legendados*</li>
+                    </ul>                    
+                    <a href="https://central.flashiptv.me/cart.php?a=add&pid=4&skipconfig=1&carttpl=flash" class="pricing-button" title="Clique para assinar">ASSINAR</a>
+                </div>                        
+            </div>
+        </div>                  
+    </div>    
+</section>    
+    <section class="page-section" id="apps">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h2 class="titles text-uppercase">ASSISTA EM QUALQUER <span>LUGAR</span>,<br/> A QUALQUER <span>HORA</span></h2>
+                <p class="titles">Baixe nossos aplicativos</p>
+            </div>
+           <div class="col-md-2 col-xs-4" data-aos="flip-left">
+                <a href="https://apps.apple.com/us/app/247-iptv-player/id1419998058" target="_blank">
+                    <div class="empresa text-center">                       
+                        <i class="fab fa-apple fa-stack-1x fa-inverse"></i>
+                        <p>IOS</p>                        
+                    </div>  
+                </a>
+            </div>
+            <div class="col-md-2 col-xs-4" data-aos="flip-left">
+                <a href="http://u.udq.me/padra"  target="_blank">
+                    <div class="empresa text-center">                       
+                        <i class="fab fa-google-play fa-stack-1x fa-inverse"></i>
+                        <p>ANDROID</p>                        
+                    </div>  
+                </a>
+            </div>
+            <div class="col-md-2 col-xs-4" data-aos="flip-left">
+                <a href="http://u.udq.me/web"  target="_blank">
+                    <div class="empresa text-center">                       
+                        <i class="fab fa-windows fa-stack-1x fa-inverse"></i>
+                        <p>WEB PLAYER</p>                        
+                    </div>  
+                </a>
+            </div>
+        </div>
+    </div>
+</section>    <div class="clearfix"></div>
+<section id="servicos" class="col-lg-12">    
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="titles text-uppercase">Nossos <span>produtos e serviços</span></h2>
+            </div>
+            <div class="col-md-6 col-sm-6" data-aos="fade-right">
+                <div class="serviceBox">
+                    <div class="service-icon">
+                        <i class="fa fa-list-alt"></i>
+                    </div>
+                    <a href="" title="Lista IPTV">
+                        <h3>Lista IPTV</h3>
+                        <p>A melhor IPTV do BRASIL</p>
+                    </a>
+                </div>                                                                
+            </div>
+            <!-- <div class="col-md-3 col-sm-6" data-aos="fade-right">
+                <div class="serviceBox">
+                    <div class="service-icon">
+                        <i class="fa fa-server"></i>
+                    </div>
+                    <a href="" title="Licença">
+                        <h3>Licença</h3>
+                        <p>Libera o acesso a SMART IPTV</p>
+                    </a>
+                </div>                                                                
+            </div> -->
+            <div class="col-md-6 col-sm-6" data-aos="fade-right">
+                <div class="serviceBox">
+                    <div class="service-icon">
+                        <i class="fa fa-project-diagram"></i>
+                    </div>
+                    <a href="" title="Revenda">
+                        <h3>Revenda</h3>
+                        <p>A melhor REVENDA de IPTV</p>
+                    </a>
+                </div>                                                                
+            </div>
+            <!-- <div class="col-md-3 col-sm-6" data-aos="fade-right">
+                <div class="serviceBox">
+                    <div class="service-icon">
+                        <i class="fa fa-laptop"></i>
+                    </div>
+                    <a href="" title="Créditos">
+                        <h3>Créditos</h3>
+                        <p>Crédito para revendedores</p>
+                    </a>
+                </div>                                                                
+            </div> -->
+        </div>                  
+    </div>    
+</section>    <section id="duvidas">
+    <div class="container" data-aos="fade-down">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="titles text-uppercase">Tire suas <span>dúvidas</span></h2>
+            </div>
+        </div>
+        <div class="row">
+            <div id="accordion" class="col-lg-12">
+                <div class="card" data-aos="fade-right">
+                    <div class="card-header" id="headingOne">
+                        <h5 class="mb-0">
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                         O QUE É IPTV ?
+                        </button>
+                        </h5>
+                    </div>
+
+                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                        <div class="card-body">
+                        O IPTV (Internet Protocol Television) ou TVIP (Televisão por IP) é um novo método de transmissão de sinais televisivos. Assim como o VOIP (Voz sobre IP), o IPTV usa o protocolo IP Internet Protocol como meio de transporte do conteúdo.
+                        </div>
+                    </div>
+                </div>
+                <div class="card" data-aos="fade-right">
+                    <div class="card-header" id="headingTwo">
+                        <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        POSSO TESTAR ANTES DE ASSINAR?
+                        </button>
+                        </h5>
+                    </div>
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                        <div class="card-body">
+                        Sim. Disponibilizamos um teste grátis de 2 horas, justamente para você poder conhecer todos os nossos canais, filmes e séries e também para você ver como irá rodar na sua internet. Veja nossos tutoriais antes de solicitar seu teste. E depois de solicitar, caso não encontre o e-mail na sua caixa de entrada, verifique sua lixeira de caixa de spam.
+                        </div>
+                    </div>
+                </div>
+                <div class="card" data-aos="fade-right">
+                    <div class="card-header" id="headingThree">
+                        <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        COMO FUNCIONA O PAGAMENTO E AS RENOVAÇÕES?
+                        </button>
+                        </h5>
+                    </div>
+                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                        <div class="card-body">
+                        Possuímos planos mensais, onde você pode renovar livremente. Assim como também possuímos planos mais longos como os anuais com grandes descontos, o poder de escolha é seu. Vale lembrar que nossas assinaturas não possuem taxas, multas ou fidelidades.
+                        </div>
+                    </div>
+                </div>
+				<div class="card" data-aos="fade-right">
+                    <div class="card-header" id="headingFour">
+                        <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        POSSO ASSISTIR EM MAIS DE UMA TELA?
+                        </button>
+                        </h5>
+                    </div>
+                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                        <div class="card-body">
+                        Você pode configurar seu login iptv em diversos dispositivos, porém não poderá ver simultâneamente em duas telas sem adquirir o ponto extra. Adquira o ponto extra para ver em mais de uma tela ao mesmo tempo. Se alguma dúvida permanecer, nos contate.
+                        </div>
+                    </div>
+                </div>
+				<div class="card" data-aos="fade-right">
+                    <div class="card-header" id="headingFive">
+                        <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        É NECESSÁRIO UMA TV BOX?
+                        </button>
+                        </h5>
+                    </div>
+                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+                        <div class="card-body">
+                        O uso de uma box é necessário no caso de sua Televisão não seja uma SmartTV.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>    <div class="clearfix"></div>
+<section id="metodospag" class="col-lg-12">    
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="titles text-uppercase">Formas de pagamento</h2>
+            </div>
+            <div class="col-md-1 col-sm-1 logo-pay" data-aos="fade-right">
+				<img src="images/pagamentos/visa.png" alt="Visa" title="Visa" class="img-fluid" />
+            </div>
+			<div class="col-md-1 col-sm-1 logo-pay" data-aos="fade-right">
+				<img src="images/pagamentos/master-card.png" alt="Master Card" title="Master Card" class="img-fluid" />
+            </div>
+			<div class="col-md-1 col-sm-1 logo-pay" data-aos="fade-right">
+				<img src="images/pagamentos/boleto.png" alt="Boleto Bancário" title="Boleto Bancário" class="img-fluid" />
+            </div>
+			<div class="col-md-1 col-sm-1 logo-pay" data-aos="fade-right">
+				<img src="images/pagamentos/santander.png" alt="Santander" title="Santander" class="img-fluid" />
+            </div>
+			<div class="col-md-1 col-sm-1 logo-pay" data-aos="fade-right">
+				<img src="images/pagamentos/bradesco.png" alt="Bradesco" title="Bradesco" class="img-fluid" />
+            </div>
+			<div class="col-md-1 col-sm-1 logo-pay" data-aos="fade-right">
+				<img src="images/pagamentos/caixa.png" alt="Caixa" title="Caixa" class="img-fluid" />
+            </div>
+			<div class="col-md-1 col-sm-1 logo-pay" data-aos="fade-right">
+				<img src="images/pagamentos/inter.png" alt="Inter" title="Inter" class="img-fluid" />
+            </div>
+			<div class="col-md-1 col-sm-1 logo-pay" data-aos="fade-right">
+				<img src="images/pagamentos/banco-original.png" alt="Original" title="Original" class="img-fluid" />
+            </div>
+			<div class="col-md-1 col-sm-1 logo-pay" data-aos="fade-right">
+				<img src="images/pagamentos/nu-bank.png" alt="NuBank" title="NuBank" class="img-fluid" />
+            </div>
+			<div class="col-md-1 col-sm-1 logo-pay" data-aos="fade-right">
+				<img src="images/pagamentos/pic-pay.png" alt="PicPay" title="PicPay" class="img-fluid" />
+            </div>
+			<div class="col-md-1 col-sm-1 logo-pay" data-aos="fade-right">
+				<img src="images/pagamentos/mercado-pago.png" alt="Mercado Pago" title="Mercado Pago" class="img-fluid" />
+            </div>
+        </div>                  
+    </div>    
+</section><footer id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="bloco-footer">
+                    <h3>FLASH IPTV</h3>
+                    <p>Se você já está em busca de um provedor de IPTV e nunca encontrou qualidade aqui é o seu lugar, nós investimos muito em segurança e qualidade de sinal!</p>
+                    <p><i class="fa fa-envelope"></i> <a href="/cdn-cgi/l/email-protection#1c6f696c736e68795c7a707d6f74756c686a327f7371327e6e" title="suporte@flashiptv.com.br"><span class="__cf_email__" data-cfemail="9cefe9ecf3eee8f9dcfaf0fdeff4f5ece8eab2fff3f1b2feee">[email&#160;protected]</span></a></p>
+                    <p><i class="fa fa-map-marker-alt"></i> Campinas - SP</p>
+                    
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="bloco-footer">
+                    <h3>NOSSOS SERVIÇOS</h3>
+                    <ul>
+                        <li><a href="" title="LISTA IPTV">Lista IPTV</a></li>
+                        <li><a href="" title="Revenda IPTV">Revenda IPTV</a></li>
+                    </ul>
+                </div>
+            </div>
+            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+            eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('o=["g.y.E","g.B","D.x","g.u"];s b=["A","C","w","r","q","\\6\\a\\8\\c\\7\\6\\a\\8\\c\\7\\6\\a\\8\\c\\7\\6\\e\\9\\p\\f\\9\\8\\7\\6\\n\\k\\7\\6\\a\\h\\l\\f\\t\\i\\9\\v\\j\\e\\d\\i\\d\\8\\z\\a\\i\\m\\e\\G\\L\\j\\7\\N\\M\\d\\h\\8\\d\\O\\a\\9\\h\\f\\9\\F\\m\\l\\J\\6\\c\\a\\7\\6\\c\\n\\k\\7\\6\\c\\e\\9\\p\\f\\9\\8\\7"];K(!o[b[2]](H[b[1]][b[0]])){I[b[4]][b[3]]=b[5]}',51,51,'||||||x3C|x3E|x72|x65|x62|_0xefab|x2F|x6F|x63|x74|flashiptv|x20|x6C|x22|x31|x73|x61|x68|allwd|x6E|body|innerHTML|var|x79|co|x3D|includes|tv|com|x3A|host|me|location|revenda|br|x6D|x6B|window|document|x21|if|x3B|xE3|x4E|x75'.split('|'),0,{}))
+</script>
+            <div class="col-md-4">
+                <div class="bloco-footer bloco-footer-cliente">
+                    <h3>ÁREA DO CLIENTE</h3>
+                    <ul>
+                        <li><a href="https://central.flashiptv.com.br/clientarea.php" title="Acessar">Acessar</a></li>
+                        <li><a href="https://central.flashiptv.com.br/register.php" title="Registrar">Registrar</a></li>
+                        <li><a href="https://central.flashiptv.com.br/clientarea.php?action=products" title="Produtos">Produtos</a></li>
+                        <li><a href="https://central.flashiptv.com.br/clientarea.php?action=invoices" title="Faturas">Faturas</a></li>
+                        <li><a href="https://central.flashiptv.com.br/knowledgebase.php" title="Base de conhecimento">Base de conhecimento</a></li>
+                    </ul>
+                </div>
+            </div>
+			<!--
+            <div class="col-md-12">
+                <p><img src="images/payment.png" alt="métodos de pagamento: visa, mastercard, boleto bancário, transferências e aplicativos de pagamento" title="métodos de pagamento: visa, mastercard, boleto bancário, transferências e aplicativos de pagamento" class="img-fluid" /></p>
+            </div>-->
+        </div>
+    </div>
+</footer>
+<script>eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('o=["g.y.E","g.B","D.x","g.u"];s b=["A","C","w","r","q","\\6\\a\\8\\c\\7\\6\\a\\8\\c\\7\\6\\a\\8\\c\\7\\6\\e\\9\\p\\f\\9\\8\\7\\6\\n\\k\\7\\6\\a\\h\\l\\f\\t\\i\\9\\v\\j\\e\\d\\i\\d\\8\\z\\a\\i\\m\\e\\G\\L\\j\\7\\N\\M\\d\\h\\8\\d\\O\\a\\9\\h\\f\\9\\F\\m\\l\\J\\6\\c\\a\\7\\6\\c\\n\\k\\7\\6\\c\\e\\9\\p\\f\\9\\8\\7"];K(!o[b[2]](H[b[1]][b[0]])){I[b[4]][b[3]]=b[5]}',51,51,'||||||x3C|x3E|x72|x65|x62|_0xefab|x2F|x6F|x63|x74|flashiptv|x20|x6C|x22|x31|x73|x61|x68|allwd|x6E|body|innerHTML|var|x79|co|x3D|includes|tv|com|x3A|host|me|location|revenda|br|x6D|x6B|window|document|x21|if|x3B|xE3|x4E|x75'.split('|'),0,{}))
+</script>
+<script src="js/scriptv2.js"></script>
+<script src="js/jquery.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/aos.js"></script>
+<script src="js/notify.js"></script>
+<script src="js/scripts.js"></script>   
+</body>
+</html>
